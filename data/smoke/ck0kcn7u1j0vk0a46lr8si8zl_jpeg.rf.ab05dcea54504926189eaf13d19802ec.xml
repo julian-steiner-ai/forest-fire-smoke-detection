@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>ck0kcn7u1j0vk0a46lr8si8zl_jpeg.rf.ab05dcea54504926189eaf13d19802ec.jpg</filename>
+	<path>/home/steinerj/Downloads/computer-vision-data/object_detection_yolov5/smoke/train/images/ck0kcn7u1j0vk0a46lr8si8zl_jpeg.rf.ab05dcea54504926189eaf13d19802ec.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>220</ymin>
+			<xmax>261</xmax>
+			<ymax>289</ymax>
+		</bndbox>
+	</object>
+</annotation>

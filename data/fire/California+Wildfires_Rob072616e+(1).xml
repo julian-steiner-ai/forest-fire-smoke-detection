@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fire</folder>
+	<filename>California+Wildfires_Rob072616e+(1).jpg</filename>
+	<path>/home/steinerj/Downloads/computer-vision-data/classification/fire/California+Wildfires_Rob072616e+(1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>1340</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1235</xmin>
+			<ymin>436</ymin>
+			<xmax>1887</xmax>
+			<ymax>903</ymax>
+		</bndbox>
+	</object>
+</annotation>

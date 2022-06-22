@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fire</folder>
+	<filename>e.jpg</filename>
+	<path>/home/steinerj/Downloads/computer-vision-data/classification/fire/e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>289</width>
+		<height>175</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>88</ymin>
+			<xmax>183</xmax>
+			<ymax>108</ymax>
+		</bndbox>
+	</object>
+</annotation>
