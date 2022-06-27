@@ -1,7 +1,7 @@
 <annotation>
-	<folder>fire</folder>
+	<folder>train</folder>
 	<filename>Chimney-Fire3.jpg</filename>
-	<path>/home/steinerj/Downloads/computer-vision-data/classification/fire/Chimney-Fire3.jpg</path>
+	<path>/home/steinerj/Documents/ai-b/semester-4/computer-vision/forest-fire-smoke-detection/data/train/Chimney-Fire3.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -45,6 +45,54 @@
 			<ymin>258</ymin>
 			<xmax>478</xmax>
 			<ymax>350</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>39</ymin>
+			<xmax>533</xmax>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>149</ymin>
+			<xmax>237</xmax>
+			<ymax>321</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>59</ymin>
+			<xmax>77</xmax>
+			<ymax>378</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>213</xmin>
+			<ymin>304</ymin>
+			<xmax>264</xmax>
+			<ymax>348</ymax>
 		</bndbox>
 	</object>
 </annotation>

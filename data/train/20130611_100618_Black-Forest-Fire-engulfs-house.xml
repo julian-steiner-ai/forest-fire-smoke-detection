@@ -1,7 +1,7 @@
 <annotation>
-	<folder>fire</folder>
+	<folder>train</folder>
 	<filename>20130611_100618_Black-Forest-Fire-engulfs-house.jpg</filename>
-	<path>/home/steinerj/Downloads/computer-vision-data/classification/fire/20130611_100618_Black-Forest-Fire-engulfs-house.jpg</path>
+	<path>/home/steinerj/Documents/ai-b/semester-4/computer-vision/forest-fire-smoke-detection/data/train/20130611_100618_Black-Forest-Fire-engulfs-house.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -33,6 +33,30 @@
 			<ymin>96</ymin>
 			<xmax>524</xmax>
 			<ymax>386</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>142</ymin>
+			<xmax>89</xmax>
+			<ymax>251</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>146</ymin>
+			<xmax>191</xmax>
+			<ymax>193</ymax>
 		</bndbox>
 	</object>
 </annotation>

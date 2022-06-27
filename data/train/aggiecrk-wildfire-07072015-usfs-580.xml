@@ -1,7 +1,7 @@
 <annotation>
-	<folder>fire</folder>
+	<folder>train</folder>
 	<filename>aggiecrk-wildfire-07072015-usfs-580.jpg</filename>
-	<path>/home/steinerj/Downloads/computer-vision-data/classification/fire/aggiecrk-wildfire-07072015-usfs-580.jpg</path>
+	<path>/home/steinerj/Documents/ai-b/semester-4/computer-vision/forest-fire-smoke-detection/data/train/aggiecrk-wildfire-07072015-usfs-580.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -45,6 +45,54 @@
 			<ymin>184</ymin>
 			<xmax>408</xmax>
 			<ymax>272</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>2</ymin>
+			<xmax>232</xmax>
+			<ymax>111</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>108</ymin>
+			<xmax>179</xmax>
+			<ymax>196</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>254</xmin>
+			<ymin>57</ymin>
+			<xmax>351</xmax>
+			<ymax>124</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>493</xmin>
+			<ymin>125</ymin>
+			<xmax>574</xmax>
+			<ymax>228</ymax>
 		</bndbox>
 	</object>
 </annotation>

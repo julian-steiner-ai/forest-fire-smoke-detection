@@ -1,7 +1,7 @@
 <annotation>
-	<folder>fire</folder>
+	<folder>train</folder>
 	<filename>b.jpg</filename>
-	<path>/home/steinerj/Downloads/computer-vision-data/classification/fire/b.jpg</path>
+	<path>/home/steinerj/Documents/ai-b/semester-4/computer-vision/forest-fire-smoke-detection/data/train/b.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -33,6 +33,18 @@
 			<ymin>96</ymin>
 			<xmax>186</xmax>
 			<ymax>108</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>199</xmax>
+			<ymax>97</ymax>
 		</bndbox>
 	</object>
 </annotation>

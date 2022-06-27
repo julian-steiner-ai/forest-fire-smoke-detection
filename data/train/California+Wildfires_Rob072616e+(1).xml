@@ -1,7 +1,7 @@
 <annotation>
-	<folder>fire</folder>
+	<folder>train</folder>
 	<filename>California+Wildfires_Rob072616e+(1).jpg</filename>
-	<path>/home/steinerj/Downloads/computer-vision-data/classification/fire/California+Wildfires_Rob072616e+(1).jpg</path>
+	<path>/home/steinerj/Documents/ai-b/semester-4/computer-vision/forest-fire-smoke-detection/data/train/California+Wildfires_Rob072616e+(1).jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,6 +21,78 @@
 			<ymin>436</ymin>
 			<xmax>1887</xmax>
 			<ymax>903</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>26</ymin>
+			<xmax>271</xmax>
+			<ymax>544</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>484</xmin>
+			<ymin>252</ymin>
+			<xmax>721</xmax>
+			<ymax>491</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>277</xmin>
+			<ymin>314</ymin>
+			<xmax>476</xmax>
+			<ymax>439</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>742</xmin>
+			<ymin>1</ymin>
+			<xmax>2000</xmax>
+			<ymax>416</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1891</xmin>
+			<ymin>667</ymin>
+			<xmax>2000</xmax>
+			<ymax>911</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1586</xmin>
+			<ymin>717</ymin>
+			<xmax>1837</xmax>
+			<ymax>926</ymax>
 		</bndbox>
 	</object>
 </annotation>

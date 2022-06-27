@@ -1,7 +1,7 @@
 <annotation>
-	<folder>fire</folder>
+	<folder>train</folder>
 	<filename>800px-Fires_cross_a_hill_in_SoCal_October_2007.jpg</filename>
-	<path>/home/steinerj/Downloads/computer-vision-data/classification/fire/800px-Fires_cross_a_hill_in_SoCal_October_2007.jpg</path>
+	<path>/home/steinerj/Documents/ai-b/semester-4/computer-vision/forest-fire-smoke-detection/data/train/800px-Fires_cross_a_hill_in_SoCal_October_2007.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -69,6 +69,30 @@
 			<ymin>458</ymin>
 			<xmax>72</xmax>
 			<ymax>521</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>417</xmin>
+			<ymin>130</ymin>
+			<xmax>491</xmax>
+			<ymax>189</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>334</ymin>
+			<xmax>155</xmax>
+			<ymax>381</ymax>
 		</bndbox>
 	</object>
 </annotation>

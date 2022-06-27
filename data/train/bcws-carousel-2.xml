@@ -1,7 +1,7 @@
 <annotation>
-	<folder>fire</folder>
+	<folder>train</folder>
 	<filename>bcws-carousel-2.jpg</filename>
-	<path>/home/steinerj/Downloads/computer-vision-data/classification/fire/bcws-carousel-2.jpg</path>
+	<path>/home/steinerj/Documents/ai-b/semester-4/computer-vision/forest-fire-smoke-detection/data/train/bcws-carousel-2.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -93,6 +93,30 @@
 			<ymin>56</ymin>
 			<xmax>1425</xmax>
 			<ymax>258</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>4</ymin>
+			<xmax>546</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>853</xmin>
+			<ymin>168</ymin>
+			<xmax>990</xmax>
+			<ymax>279</ymax>
 		</bndbox>
 	</object>
 </annotation>
